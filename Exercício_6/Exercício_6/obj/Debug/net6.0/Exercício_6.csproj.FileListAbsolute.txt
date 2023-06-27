@@ -1,0 +1,15 @@
+C:\Users\Carol\source\repos\Exercício_6\Exercício_6\bin\Debug\net6.0\Exercício_6.exe
+C:\Users\Carol\source\repos\Exercício_6\Exercício_6\bin\Debug\net6.0\Exercício_6.deps.json
+C:\Users\Carol\source\repos\Exercício_6\Exercício_6\bin\Debug\net6.0\Exercício_6.runtimeconfig.json
+C:\Users\Carol\source\repos\Exercício_6\Exercício_6\bin\Debug\net6.0\Exercício_6.dll
+C:\Users\Carol\source\repos\Exercício_6\Exercício_6\bin\Debug\net6.0\Exercício_6.pdb
+C:\Users\Carol\source\repos\Exercício_6\Exercício_6\obj\Debug\net6.0\Exercício_6.csproj.AssemblyReference.cache
+C:\Users\Carol\source\repos\Exercício_6\Exercício_6\obj\Debug\net6.0\Exercício_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carol\source\repos\Exercício_6\Exercício_6\obj\Debug\net6.0\Exercício_6.AssemblyInfoInputs.cache
+C:\Users\Carol\source\repos\Exercício_6\Exercício_6\obj\Debug\net6.0\Exercício_6.AssemblyInfo.cs
+C:\Users\Carol\source\repos\Exercício_6\Exercício_6\obj\Debug\net6.0\Exercício_6.csproj.CoreCompileInputs.cache
+C:\Users\Carol\source\repos\Exercício_6\Exercício_6\obj\Debug\net6.0\Exercício_6.dll
+C:\Users\Carol\source\repos\Exercício_6\Exercício_6\obj\Debug\net6.0\refint\Exercício_6.dll
+C:\Users\Carol\source\repos\Exercício_6\Exercício_6\obj\Debug\net6.0\Exercício_6.pdb
+C:\Users\Carol\source\repos\Exercício_6\Exercício_6\obj\Debug\net6.0\Exercício_6.genruntimeconfig.cache
+C:\Users\Carol\source\repos\Exercício_6\Exercício_6\obj\Debug\net6.0\ref\Exercício_6.dll
